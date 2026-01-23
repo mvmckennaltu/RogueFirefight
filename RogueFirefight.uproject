@@ -16,6 +16,8 @@
 			"Enabled": true
 		},
 		{
+			"Name": "PCGBiomeCore",
+			"Enabled": true
 		},
 		{
 			"Name": "PCGBiomeSample",
@@ -23,6 +25,10 @@
 		},
 		{
 			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGExternalDataInterop",
 			"Enabled": true
 		},
 		{
@@ -34,6 +40,8 @@
 			"Enabled": true
 		},
 		{
+			"Name": "PCGWaterInterop",
+			"Enabled": true
 		},
 		{
 			"Name": "PCGPythonInterop",
@@ -41,17 +49,15 @@
 		},
 		{
 			"Name": "PCGNiagaraInterop",
+			"Enabled": true
 		},
 		{
 			"Name": "PCGNaniteAssembliesInterop",
 			"Enabled": true
 		},
 		{
-		},
-		{
-			"Name": "PCGPythonInterop",
+			"Name": "PCGInstancedActorsInterop",
 			"Enabled": true
-		},
-		{
-			"Name": "PCGWaterInterop",
-			"Enabled": true
+		}
+	]
+}
