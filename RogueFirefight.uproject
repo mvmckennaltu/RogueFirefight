@@ -40,15 +40,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PCGWaterInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGPythonInterop",
-			"Enabled": true
-		},
-		{
-			"Name": "PCGNiagaraInterop",
+			"Name": "PCGInstancedActorsInterop",
 			"Enabled": true
 		},
 		{
@@ -56,7 +48,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PCGInstancedActorsInterop",
+			"Name": "PCGNiagaraInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGPythonInterop",
+			"Enabled": true
+		},
+		{
+			"Name": "PCGWaterInterop",
 			"Enabled": true
 		}
 	]
